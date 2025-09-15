@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hyper Poetry by Prinya</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background: linear-gradient(to bottom, #1a1a1a, #333);
+      color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      padding: 20px;
+      background-color: #00000080;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      color: #ffd700;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 700px;
+      margin: auto;
+    }
+    .poem {
+      font-size: 1.2rem;
+      line-height: 1.8;
+      white-space: pre-line;
+      margin-bottom: 30px;
+    }
+    footer {
+      margin-top: 40px;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Life's Journey</h1>
+  </header>
+  <main>
+    <div class="poem">
+Life's journey is not always smooth
+No flowers grow without rain, no humans glow without pain
+We face our storms, we weather the test
+And in the darkness, we find our best
+
+The rain may pour, the pain may sting
+But it's in these moments we learn to sing
+A melody of strength, of resilience true
+A symphony that echoes anew
+
+No flowers grow without rain, no humans glow without pain
+Yet from the depths, a beauty will reign
+A light that shines, a heart that's bold
+A soul that's tempered, like gold.
+    </div>
+    <div>— Prinya</div>
+  </main>
+  <footer>
+    &copy; 2025 Prinya. All rights reserved.
+  </footer>
+</body>
+</html>
